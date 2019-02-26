@@ -1,4 +1,5 @@
 --[[
+	Object Type: ModuleScript
 	
 	NTE Corporation AXESYS MAINLOADER
 	NTE Corporation: https://www.roblox.com/My/Groups.aspx?gid=1213856
