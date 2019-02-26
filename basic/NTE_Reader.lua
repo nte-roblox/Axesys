@@ -1,5 +1,5 @@
 --[[
-	
+	Object Type: ModuleScript
 	NTE Corporation AXESYS READER CONTROLLER
 	NTE Corporation: https://www.roblox.com/My/Groups.aspx?gid=1213856
 	
